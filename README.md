@@ -8,3 +8,7 @@
 ![deku room](https://github.com/green-gray-gaurav/MHA_ANIME_ANDORID_GAME/blob/master/s3.png?raw=true)
 
 ![todoroki room](https://github.com/green-gray-gaurav/MHA_ANIME_ANDORID_GAME/blob/master/s4.png?raw=true)
+
+### To Get the game
+* here is the link for
+[game](https://github.com/green-gray-gaurav/MHA_ANIME_ANDORID_GAME/blob/master/my_hero_academia_2.apk)
