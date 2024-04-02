@@ -16,3 +16,15 @@
 [game link](https://github.com/green-gray-gaurav/MHA_ANIME_ANDORID_GAME/blob/master/my_hero_academia_2.apk)
 * and then download the raw file 
 
+# ZOM B ANDROID GAME
+> game based on zombie shooter pc
+
+![s1](https://github.com/green-gray-gaurav/MHA_ANIME_ANDORID_GAME/blob/master/zom_1.jpg)
+
+![s2](https://github.com/green-gray-gaurav/MHA_ANIME_ANDORID_GAME/blob/master/zom_2.jpg)
+
+![s3](https://github.com/green-gray-gaurav/MHA_ANIME_ANDORID_GAME/blob/master/zom_3.jpg)
+
+### To Get the game
+* go to this link
+[game link](https://github.com/green-gray-gaurav/MHA_ANIME_ANDORID_GAME/blob/master/base.apk)
